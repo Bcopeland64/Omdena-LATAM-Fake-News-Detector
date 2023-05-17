@@ -1,3 +1,3 @@
 # Omdena-Projects
 
-This repository contains all tasks completed for Omdena Fake News Project / Omdena Radmol AI Project
+This repository contains all tasks completed for Omdena Fake News Project 
