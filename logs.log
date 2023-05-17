@@ -1,0 +1,100 @@
+2022-03-26 17:24:08,442:INFO:PyCaret NLP Module
+2022-03-26 17:24:08,445:INFO:version 2.2.2
+2022-03-26 17:24:08,446:INFO:Initializing setup()
+2022-03-26 17:24:08,448:INFO:USI: d5b0
+2022-03-26 17:24:08,449:INFO:setup(data=(2170, 14), target=Text, custom_stopwords=None, html=True, session_id=None, log_experiment=False,
+                    experiment_name=None, log_plots=False, log_data=False, verbose=True)
+2022-03-26 17:24:08,452:INFO:Checking environment
+2022-03-26 17:24:08,453:INFO:python_version: 3.9.7
+2022-03-26 17:24:08,454:INFO:python_build: ('default', 'Sep 16 2021 13:09:58')
+2022-03-26 17:24:08,455:INFO:machine: x86_64
+2022-03-26 17:24:08,456:INFO:platform: Linux-5.4.0-105-generic-x86_64-with-glibc2.31
+2022-03-26 17:24:08,457:INFO:Memory: svmem(total=14681559040, available=9927839744, percent=32.4, used=4234649600, free=1213485056, active=6951034880, inactive=4304023552, buffers=3298439168, cached=5934985216, shared=193359872, slab=1905307648)
+2022-03-26 17:24:08,460:INFO:Physical Core: 4
+2022-03-26 17:24:08,462:INFO:Logical Core: 8
+2022-03-26 17:24:08,463:INFO:Checking libraries
+2022-03-26 17:24:08,464:INFO:pd==1.3.4
+2022-03-26 17:24:08,465:INFO:numpy==1.19.5
+2022-03-26 17:24:13,653:INFO:gensim==4.1.2
+2022-03-26 17:24:17,614:INFO:spacy==3.2.1
+2022-03-26 17:24:20,681:INFO:nltk==3.6.5
+2022-03-26 17:24:20,834:INFO:textblob==0.17.1
+2022-03-26 17:24:21,208:INFO:pyLDAvis==3.2.2
+2022-03-26 17:24:21,312:INFO:wordcloud==1.8.1
+2022-03-26 17:24:22,025:INFO:mlflow==1.22.0
+2022-03-26 17:24:22,026:INFO:Checking Exceptions
+2022-03-26 17:24:47,233:INFO:PyCaret NLP Module
+2022-03-26 17:24:47,234:INFO:version 2.2.2
+2022-03-26 17:24:47,235:INFO:Initializing setup()
+2022-03-26 17:24:47,237:INFO:USI: 0157
+2022-03-26 17:24:47,238:INFO:setup(data=(2170, 14), target=Text, custom_stopwords=None, html=True, session_id=None, log_experiment=False,
+                    experiment_name=None, log_plots=False, log_data=False, verbose=True)
+2022-03-26 17:24:47,239:INFO:Checking environment
+2022-03-26 17:24:47,240:INFO:python_version: 3.9.7
+2022-03-26 17:24:47,241:INFO:python_build: ('default', 'Sep 16 2021 13:09:58')
+2022-03-26 17:24:47,242:INFO:machine: x86_64
+2022-03-26 17:24:47,244:INFO:platform: Linux-5.4.0-105-generic-x86_64-with-glibc2.31
+2022-03-26 17:24:47,245:INFO:Memory: svmem(total=14681559040, available=9845104640, percent=32.9, used=4323848192, free=1020174336, active=7047794688, inactive=4394311680, buffers=3299954688, cached=6037581824, shared=187162624, slab=1911001088)
+2022-03-26 17:24:47,247:INFO:Physical Core: 4
+2022-03-26 17:24:47,248:INFO:Logical Core: 8
+2022-03-26 17:24:47,249:INFO:Checking libraries
+2022-03-26 17:24:47,250:INFO:pd==1.3.4
+2022-03-26 17:24:47,251:INFO:numpy==1.19.5
+2022-03-26 17:24:47,252:INFO:gensim==4.1.2
+2022-03-26 17:24:47,253:INFO:spacy==3.2.1
+2022-03-26 17:24:47,254:INFO:nltk==3.6.5
+2022-03-26 17:24:47,254:INFO:textblob==0.17.1
+2022-03-26 17:24:47,257:INFO:pyLDAvis==3.2.2
+2022-03-26 17:24:47,258:INFO:wordcloud==1.8.1
+2022-03-26 17:24:47,259:INFO:mlflow==1.22.0
+2022-03-26 17:24:47,260:INFO:Checking Exceptions
+2022-03-26 17:25:34,368:INFO:PyCaret NLP Module
+2022-03-26 17:25:34,370:INFO:version 2.2.2
+2022-03-26 17:25:34,371:INFO:Initializing setup()
+2022-03-26 17:25:34,373:INFO:USI: 325c
+2022-03-26 17:25:34,374:INFO:setup(data=(2170, 14), target=Text, custom_stopwords=None, html=True, session_id=None, log_experiment=False,
+                    experiment_name=None, log_plots=False, log_data=False, verbose=True)
+2022-03-26 17:25:34,376:INFO:Checking environment
+2022-03-26 17:25:34,377:INFO:python_version: 3.9.7
+2022-03-26 17:25:34,378:INFO:python_build: ('default', 'Sep 16 2021 13:09:58')
+2022-03-26 17:25:34,379:INFO:machine: x86_64
+2022-03-26 17:25:34,379:INFO:platform: Linux-5.4.0-105-generic-x86_64-with-glibc2.31
+2022-03-26 17:25:34,381:INFO:Memory: svmem(total=14681559040, available=9892470784, percent=32.6, used=4259729408, free=1011761152, active=7008845824, inactive=4435279872, buffers=3300937728, cached=6109130752, shared=203870208, slab=1913298944)
+2022-03-26 17:25:34,383:INFO:Physical Core: 4
+2022-03-26 17:25:34,384:INFO:Logical Core: 8
+2022-03-26 17:25:34,385:INFO:Checking libraries
+2022-03-26 17:25:34,386:INFO:pd==1.3.4
+2022-03-26 17:25:34,387:INFO:numpy==1.22.3
+2022-03-26 17:25:34,949:INFO:gensim==4.1.2
+2022-03-26 17:25:35,520:INFO:spacy==3.2.1
+2022-03-26 17:25:35,725:INFO:nltk==3.6.5
+2022-03-26 17:25:35,747:INFO:textblob==0.17.1
+2022-03-26 17:25:35,807:INFO:pyLDAvis==3.2.2
+2022-03-26 17:25:35,817:INFO:wordcloud==1.8.1
+2022-03-26 17:25:36,035:INFO:mlflow==1.22.0
+2022-03-26 17:25:36,036:INFO:Checking Exceptions
+2022-03-26 17:28:07,200:INFO:PyCaret NLP Module
+2022-03-26 17:28:07,201:INFO:version 2.2.2
+2022-03-26 17:28:07,202:INFO:Initializing setup()
+2022-03-26 17:28:07,203:INFO:USI: a771
+2022-03-26 17:28:07,204:INFO:setup(data=(2170, 14), target=Text, custom_stopwords=None, html=True, session_id=None, log_experiment=False,
+                    experiment_name=None, log_plots=False, log_data=False, verbose=True)
+2022-03-26 17:28:07,205:INFO:Checking environment
+2022-03-26 17:28:07,206:INFO:python_version: 3.9.7
+2022-03-26 17:28:07,207:INFO:python_build: ('default', 'Sep 16 2021 13:09:58')
+2022-03-26 17:28:07,209:INFO:machine: x86_64
+2022-03-26 17:28:07,210:INFO:platform: Linux-5.4.0-105-generic-x86_64-with-glibc2.31
+2022-03-26 17:28:07,212:INFO:Memory: svmem(total=14681559040, available=9851052032, percent=32.9, used=4315660288, free=955883520, active=7196741632, inactive=4307087360, buffers=3301666816, cached=6108348416, shared=189394944, slab=1920143360)
+2022-03-26 17:28:07,214:INFO:Physical Core: 4
+2022-03-26 17:28:07,215:INFO:Logical Core: 8
+2022-03-26 17:28:07,216:INFO:Checking libraries
+2022-03-26 17:28:07,217:INFO:pd==1.3.4
+2022-03-26 17:28:07,218:INFO:numpy==1.22.3
+2022-03-26 17:28:07,218:INFO:gensim==4.1.2
+2022-03-26 17:28:07,219:INFO:spacy==3.2.1
+2022-03-26 17:28:07,220:INFO:nltk==3.6.5
+2022-03-26 17:28:07,222:INFO:textblob==0.17.1
+2022-03-26 17:28:07,224:INFO:pyLDAvis==3.2.2
+2022-03-26 17:28:07,224:INFO:wordcloud==1.8.1
+2022-03-26 17:28:07,225:INFO:mlflow==1.22.0
+2022-03-26 17:28:07,228:INFO:Checking Exceptions
